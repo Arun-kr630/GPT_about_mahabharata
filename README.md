@@ -1,1 +1,1 @@
-Fine-tuned the GPT-2 model using the Mahabharata dataset.
+ GPT-2 model fine-tuned based on Mahabharata textbook.
